@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-starter-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Koliadin Nikita",
   "license": "Apache 2.0",
   "private": true,
@@ -20,6 +20,7 @@
     "babel-loader": "^5.4.2",
     "css-loader": "^0.22.0",
     "file-loader": "^0.8.5",
+    "http-server": "^0.11.1",
     "json-loader": "^0.5.4",
     "react-hot-loader": "^1.3.0",
     "style-loader": "^0.13.0",
