@@ -26,6 +26,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
+### `npm run http-server`
+
+Runs the app in the static mode.<br>
+Open [http://192.168.0.104:8081](http://192.168.0.104:8081) to view it in the browser.
+
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
