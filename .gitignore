@@ -5,3 +5,4 @@ public/build/
 
 # Files
 package-lock.json
+*.iml
